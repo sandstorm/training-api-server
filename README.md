@@ -8,6 +8,7 @@ Simply clone this repo and run `yarn` inside it, to install [json-server](https:
 
 ## Scripts
 
-### `start`
+### `yarn start`
 
-Starts the json-server and exposes its endpoints on `localhost:3007`
+Starts the json-server and exposes its endpoints on `localhost:3007`.
+It also tells you all available endpoints (Ressources)
